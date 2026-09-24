@@ -1,0 +1,11 @@
+{
+  "name": "Better City",
+  "short_name": "Better City",
+  "start_url": "/field",
+  "display": "standalone",
+  "background_color": "#f3eee4",
+  "theme_color": "#1d3a32",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
